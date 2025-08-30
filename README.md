@@ -18,7 +18,7 @@
 ---
 
 ### 💡 About Me
-- Data Engineer at **TCS** with **2+ years** experience in **Python, SQL, AWS & ETL**  
+- Data Engineer at **TCS** with **3+ years** experience in **Python, SQL, AWS & ETL**  
 - Hands-on with **Apache Airflow, Informatica IICS, Power BI, Data Warehousing**  
 - Exploring **PySpark, Big Data Ecosystem & Advanced AWS Services**  
 - *“Turning raw data into meaningful insights, one pipeline at a time.”*  
